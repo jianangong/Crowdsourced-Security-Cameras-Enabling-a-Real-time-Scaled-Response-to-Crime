@@ -5,9 +5,9 @@ City of Paterson plans to utilize crowdsourced security cameras to reduce the cr
 
 ## Introduction
 City Paterson is going to solve the crime problems by using Crowdsourced Security Cameras and collaborative policing. The city has always been handling the relatively high crime rate compared with other cities in NJ. In the meanwhile, due to the current COVID-19 situation, another type of violation--social distancing violation surges. Our sponsor wants to properly place and utilize cameras to kill two birds with one stone which means placing the camera appropriately which can both detect crime and social distance violation.
+<br></br>
 The scope of the program switched from Crowdsourced Security Cameras to collaborative policing using data and models which is advocated by our sponsor. So, our study focuses on: 1.find out where to install those cameras by overlapping  the city crime and COVID-19 response call data 2. allocate the police force temporally and spatially based on data analytics and modeling 3. develop a Yolo-based model to detect social distancing and blank frame (no person in the frame)
-Social Distancing Analyser automatically detects the extent to which social distancing protocols are followed in the area.
-Deploying it on current surveillance systems and drones used by police to monitor large areas can help to prevent coronavirus by allowing automated and better tracking of activities happening in the area. It shows analytics of the area in real time. It can also be used to alert police in case of considerable violation of social distancing protocols in a particular area. 
+
 
   ### Please fork the repository and give credits if you use any part of it. :slightly_smiling_face:
   ## It took me time and effort to code it.
