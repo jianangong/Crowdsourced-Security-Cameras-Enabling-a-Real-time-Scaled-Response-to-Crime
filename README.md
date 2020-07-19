@@ -23,6 +23,29 @@ The social distancing analyzer output a real-time system with video and differen
 #### v2.0 output:
 ![](op2.gif)
 
+### Mapping
+Based on the whole crime data heat map, the team can recognize 22 areas where crime happens frequently( more than 20 cases from 2015 to 2020). For those 22 areas, incidents happen 609 times, which represents 5.10% of all cases from  2015 to 2020.
+
+#### high crime density areas in paterson
+![](high_density.png)
+
+As shown in following figure, those areas that are located in high confidence areas and high density areas should be the best location for Surveillance. 
+#### overlapped heatmap for Crime and COVID-19
+![](overlap_heatmap.png)
+
+### Clustering
+The team filtered the label 0 crime types and found that violent and serious crimes mostly happen at night. It is reasonable as homicide and robbery with weapons shouldn’t be conspicuous so the criminals prefer to take actions after 10 pm. The violent crime rate has always been high in Paterson which should be the top priority to solve. By mapping the location from 10 pm to 2 am, the team found that most of the incidents happen along the streets, especially highways. Installing cameras in the highway might be the most cost-effective way for Paterson as it can seize the movement without obstacles and most incidents occur there. The team decided to collaborate with the Paterson Police Department to reallocate the workforce for monitoring video surveillance in these streets. For example, more people should be assigned around 11 pm-2 am for footage viewing.
+#### Distribution of violent crime
+![](cluster_label0.png)
+#### Map of violent crime between 22 pm -2 am
+![](location_label0.png)
+
+### Time series analysis
+The result shows that tract 1832 has the most incidents number in the previous 5 years. So the team wants to forecast this area first. The figure below is the original and predicted timeline which has little error. Each month, there will be about 25 incidents and the number will slightly increase after May 2020. The team also predicts other tracts and selects the top 5 as the high-risk areas for the police to pay attention to. They are tract 1832, 1829, 1810,1803 and 1813 respectively.
+#### Incidents number prediction for the following months
+![](time_series.png)
+
+
 ## Features:
 * Get the areal time nalytics such as:
    - Number of people in a particular area
