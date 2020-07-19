@@ -8,11 +8,6 @@ City Paterson is going to solve the crime problems by using Crowdsourced Securit
 <br></br>
 The scope of the program switched from Crowdsourced Security Cameras to collaborative policing using data and models which is advocated by our sponsor. So, our study focuses on: 1.find out where to install those cameras by overlapping  the city crime and COVID-19 response call data 2. allocate the police force temporally and spatially based on data analytics and modeling 3. develop a Yolo-based model to detect social distancing and blank frame (no person in the frame)
 
-
-  ### Please fork the repository and give credits if you use any part of it. :slightly_smiling_face:
-  ## It took me time and effort to code it.
-  ## I would really appreciate if you give it a star. :star:
-  ## YOU ARE NOT ALLOWED TO COMMERCIALIZE OR MONETIZE THIS CODE IN ANY FORM.(Not even youtube)
  
 #### v1.0 output:
 
