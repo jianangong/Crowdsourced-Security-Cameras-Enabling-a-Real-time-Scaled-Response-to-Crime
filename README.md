@@ -1,6 +1,5 @@
-# Social-Distancing-Analyser-COVID-19
-An AI tool to prevent spreading of coronavirus (COVID-19) by using computer vision on video surveillance.
-A social distancing analyzer AI tool to regulate social distancing protocol using video surveillance of CCTV cameras and drones. Social Distancing Analyser to prevent COVID19
+# Crowdsourced Security Cameras Enabling a Real-time Scaled Response to Crime
+City of Paterson plans to utilize crowdsourced security cameras to reduce the crime rate by getting a real-time response to the crime and recognize the social distancing violation in this COVID-19 situation. By analyzing geospatial data, the team plotted the overlapped heatmap of both crime and COVID-19 response and found the best places to install cameras. The further clustering of temporal and spatial patterns of crime helped the city to better monitor violent crimes at midnight and theft in the early morning, while the time prediction for each census tract provided the police key regulatory direction in the future.  After the installation of cameras, the team developed a dashboard of public surveillance cameras for social distance detection by using YOLO4, the object detection algorithm. 
 
 
 ## For education purpose only, meant as my contribution towards society
