@@ -42,15 +42,6 @@ The result shows that tract 1832 has the most incidents number in the previous 5
 ![](time_series.png)
 
 
-## Features:
-* Get the areal time nalytics such as:
-   - Number of people in a particular area
-   - Number of people in high risk
-   - The extent of risk to a particular person.
-* Doesn't collect any data of a particular person
-* Stores a video output for review
-
-
 ## Installation:
 * Fork the repository and download the code.
 * Download the following files and place it in the same directory
