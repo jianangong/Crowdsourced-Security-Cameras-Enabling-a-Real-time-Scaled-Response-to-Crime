@@ -17,11 +17,7 @@ The social distancing analyzer output a real-time system with video and differen
 
 #### v1.0 output:
 
-![](output.gif)
-
-
-#### v2.0 output:
-![](op2.gif)
+![](op_liquor.gif)
 
 ### Mapping
 Based on the whole crime data heat map, the team can recognize 22 areas where crime happens frequently( more than 20 cases from 2015 to 2020). For those 22 areas, incidents happen 609 times, which represents 5.10% of all cases from  2015 to 2020.
