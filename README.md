@@ -39,4 +39,4 @@ The scope of the program switched from Crowdsourced Security Cameras to collabor
 * Install all the dependenices
 * Run social_distance_detection.py
 ### Credits:
-##### A big thanks to Ardian Rosebrock (www.pyimagesearch.com) for CV tutorial on detection.
+##### We want to appreciate the great help from Ankush Chaudhari who taught the team a lot in terms of yolo and distance calculation
