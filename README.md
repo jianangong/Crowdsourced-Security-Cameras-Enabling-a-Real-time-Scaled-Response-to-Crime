@@ -8,10 +8,14 @@ City Paterson is going to solve the crime problems by using Crowdsourced Securit
 <br></br>
 The scope of the program switched from Crowdsourced Security Cameras to collaborative policing using data and models which is advocated by our sponsor. So, our study focuses on: 1.find out where to install those cameras by overlapping  the city crime and COVID-19 response call data 2. allocate the police force temporally and spatially based on data analytics and modeling 3. develop a Yolo-based model to detect social distancing and blank frame (no person in the frame)
 
- 
+## Results
+## Social distancing analyzer
+The social distancing analyzer output a real-time system with video and different color boxes. Green color means safe, orange means low risk, and red means high risk. The below has total, safe, low-risk and high-risk counts respectively. Users can monitor real-time change and give quick decisions based on the count. And after analyzing the whole footage, the analyzer will print the average count of risk people on different levels in a fixed period of time. In the result output, the team set the period as 10 seconds. In a real-world scenario, the period can be changed to 1 hour or half an hour. Therefore, Paterson can analyze when will there be a peak and propose proper policy to prevent social distance violations. 
+
 #### v1.0 output:
 
 ![](output.gif)
+
 
 #### v2.0 output:
 ![](op2.gif)
